@@ -5,6 +5,7 @@ Example application of a blind source separation algorithm to a simulated video 
 A simulated video of a vibrating beam is input to the program. PCA is applied to the video to reduce its dimensionality. Stone's blind source separation algorithm is applied to determine the mode shapes present in the video.
 
 ## Input
+Simulation of an aluminum beam vibrating with 4 modes. Rendered using Blender's Python API.
 ![beam_animation](https://github.com/Gunnar703/video-bss/assets/109893121/1e998041-1bae-4d5f-982c-300e31256c50)
 
 ## Outputs
